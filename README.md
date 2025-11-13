@@ -1,8 +1,7 @@
 ### Olá
 Eu sou a Nicole! \
 Tenho 15 anos; \
-Gosto de ouvir música; \
-Atualmente estou focada nos estudos, pois sei que me ira me ajudar futuramente. 
+Estou cursando o 1°ano de Desenvolvimento de Sistemas na Etec.
 
 <!--
 **Heloizaa/Heloizaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
