@@ -1,7 +1,7 @@
 ### Olá
 Eu sou a Nicole! \
-Tenho 15 anos; \
-Estou cursando o 1°ano de Desenvolvimento de Sistemas na Etec.
+Tenho 17 anos; \
+Estou cursando o 3°ano de Desenvolvimento de Sistemas na Etec.
 
 <!--
 **Heloizaa/Heloizaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
